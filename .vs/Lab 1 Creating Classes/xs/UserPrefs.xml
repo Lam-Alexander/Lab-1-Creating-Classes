@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D74EA53A-0DBD-4B43-93D2-14ACEBF9B038}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main_Program.cs">
+    <Files>
+      <File FileName="Main_Program.cs" Line="24" Column="14" />
+      <File FileName="Relation_Class.cs" Line="1" Column="1" />
+      <File FileName="Person_Class.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab 1 Creating Classes" expanded="True">
+            <Node name="Lab 1 Creating Classes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab_2201_220Creating_220Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
